@@ -83,7 +83,8 @@ A DOI will be generated automatically via Zenodo after publishing the
 first GitHub Release (`v1.0`).  
 Once available, please cite as:
 
-Marutani, Y. (2026). Universal Human Infrastructure (UHI): Concept Paper v1.0. Zenodo. https://doi.org/xxxx
+Marutani, Y. (2026). Universal Human Infrastructure (UHI): Concept Paper v1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.18675278
+
 
 
 ---

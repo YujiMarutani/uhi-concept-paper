@@ -37,12 +37,13 @@ technological productivity is placed in service of human potential.
 
 ## 📄 Contents
 
-manuscript.md      — Full concept paper (v1.0)
-references.bib     — Minimal citation set (Sen, Nussbaum, Russell)
-figures/           — Figure 1 (architecture), Figure 2 (OS model)
-diagrams/          — Source files for vector diagrams (optional)
-LICENSE            — CC BY 4.0
-README.md          — This file
+UHI_Consept_paper_v1.0.pdf — Full concept paper (v1.0)
+manuscript.md              — Full concept paper (v1.0)
+references.bib             — Minimal citation set (Sen, Nussbaum, Russell)
+figures/                   — Figure 1 (architecture), Figure 2 (OS model)
+diagrams/                  — Source files for vector diagrams (optional)
+LICENSE                    — CC BY 4.0
+README.md                  — This file
 
 ---
 

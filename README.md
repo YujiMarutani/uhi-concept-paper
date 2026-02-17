@@ -72,11 +72,8 @@ AI-driven economies.
 
 ## 🖼 Figures
 
-- **Figure 1:** UHI Three-Layer Architecture  
-- **Figure 2:** UHI OS Model (systemic representation)
-
-Figures are provided in PNG format for publication and in editable
-formats under `diagrams/`.
+Figures will be included in a subsequent update (v1.1).
+The current release focuses on the conceptual framework.
 
 ---
 

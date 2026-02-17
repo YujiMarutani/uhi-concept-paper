@@ -1,13 +1,16 @@
 # Universal Human Infrastructure (UHI): Concept Paper v1.0
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18675278.svg)](https://doi.org/10.5281/zenodo.18675278)
+
 **Universal Human Infrastructure (UHI)** is a proposed institutional
 architecture for post-labor societies. It reframes the policy problem
 of automated economies from *income redistribution* to *access
 architecture*: the systematic guarantee of the material, social, and
 infrastructural conditions necessary for human flourishing.
 
-This repository contains the full text of the **UHI Concept Paper v1.0**,
-figures, and references. A DOI will be assigned via Zenodo upon release.
+This repository contains the full text of the **UHI Concept Paper v1.0**
+and the directory structure for figures and diagrams.  
+Figure files will be added in subsequent versions (v1.1+).
 
 ---
 
@@ -35,23 +38,23 @@ technological productivity is placed in service of human potential.
 
 ---
 
-## 📄 Contents
+## 📄 Repository Contents
 
-UHI_Consept_paper_v1.0.pdf — Full concept paper (v1.0)
-manuscript.md              — Full concept paper (v1.0)
-references.bib             — Minimal citation set (Sen, Nussbaum, Russell)
-figures/                   — Figure 1 (architecture), Figure 2 (OS model)
-diagrams/                  — Source files for vector diagrams (optional)
-LICENSE                    — CC BY 4.0
-README.md                  — This file
+UHI_Consept_paper_v1.0.pdf
+manuscript.md      — Full concept paper (v1.0)
+references.bib     — Minimal citation set (Sen, Nussbaum, Russell)
+figures/           — Placeholder for Figure 1 & Figure 2 (to be added)
+diagrams/          — Placeholder for vector source files (draw.io/SVG)
+LICENSE            — CC BY 4.0
+README.md          — This file
 
 ---
 
 ## 🧠 Key Contributions
 
 ### **1. Institutional Architecture**
-A three-layer design that integrates infrastructure, services, and
-income security into a unified system.
+A three-layer design integrating infrastructure, services, and income
+security into a unified system.
 
 ### **2. Economic Logic**
 A multi-channel funding model aligned with the structural characteristics
@@ -70,22 +73,11 @@ AI-driven economies.
 
 ---
 
-## 🖼 Figures
-
-Figures will be included in a subsequent update (v1.1).
-The current release focuses on the conceptual framework.
-
----
-
 ## 📚 Citation
 
-A DOI will be generated automatically via Zenodo after publishing the
-first GitHub Release (`v1.0`).  
-Once available, please cite as:
+Please cite this work as:
 
-Marutani, Y. (2026). Universal Human Infrastructure (UHI): Concept Paper v1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.18675278
-
-
+Marutani, Y. (2026). *Universal Human Infrastructure (UHI): Concept Paper v1.0* (1.0). Zenodo. https://doi.org/10.5281/zenodo.18675278
 
 ---
 
@@ -114,6 +106,7 @@ This repository serves as:
 
 Planned extensions include:
 
+- Addition of Figure 1 and Figure 2  
 - Appendix B: Automation Windfall Index (technical specification)  
 - Empirical calibration notes  
 - Governance models for automated commons  
@@ -131,10 +124,6 @@ Please open an issue or submit a pull request.
 
 ## 📬 Contact
 
-For inquiries or collaboration:
-
 **Yuji Marutani**  
-(Independent Researcher)
-
----
+y.marutani [at] gmail.com
 

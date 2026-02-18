@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="620" viewBox="0 0 720 620" font-family="Arial, Helvetica, sans-serif">
+
+  <!-- Background -->
+  <rect width="720" height="620" fill="white"/>
+
+  <!-- Title -->
+  <text x="360" y="32" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a1a2e">Figure 1. The UHI Three-Layer Architecture</text>
+
+  <!-- ── Infrastructure Layer ── -->
+  <rect x="90" y="470" width="560" height="120" rx="10" ry="10" fill="#a8d0e6" stroke="#05445e" stroke-width="2"/>
+  <text x="370" y="500" text-anchor="middle" font-size="13" font-weight="bold" fill="#05445e">Infrastructure Layer</text>
+  <text x="370" y="520" text-anchor="middle" font-size="11" fill="#111">Automated Public Commons</text>
+  <text x="370" y="538" text-anchor="middle" font-size="11" fill="#111">Energy · Compute · Logistics</text>
+  <text x="370" y="556" text-anchor="middle" font-size="10" fill="#334455">Near-Zero Marginal Cost Systems</text>
+
+  <!-- ── Support Layer ── -->
+  <rect x="90" y="300" width="560" height="120" rx="10" ry="10" fill="#b8e0d2" stroke="#056d5d" stroke-width="2"/>
+  <text x="370" y="330" text-anchor="middle" font-size="13" font-weight="bold" fill="#056d5d">Support Layer</text>
+  <text x="370" y="350" text-anchor="middle" font-size="11" fill="#111">Universal Basic Services</text>
+  <text x="370" y="368" text-anchor="middle" font-size="11" fill="#111">Healthcare · Education · Childcare · Housing</text>
+  <text x="370" y="386" text-anchor="middle" font-size="10" fill="#1a4a3a">Social Reproduction &amp; Capability Formation</text>
+
+  <!-- ── Sovereign Layer ── -->
+  <rect x="90" y="130" width="560" height="120" rx="10" ry="10" fill="#f4b6b6" stroke="#800000" stroke-width="2"/>
+  <text x="370" y="160" text-anchor="middle" font-size="13" font-weight="bold" fill="#800000">Sovereign Layer</text>
+  <text x="370" y="180" text-anchor="middle" font-size="11" fill="#111">Universal Income Floor → Agency &amp; Non-Market Activity</text>
+  <text x="370" y="198" text-anchor="middle" font-size="11" fill="#111">Self-Directed Human Flourishing</text>
+  <text x="370" y="216" text-anchor="middle" font-size="10" fill="#660000">Automation Windfall Redistribution</text>
+
+  <!-- ── Upward arrows (center) ── -->
+  <!-- Infra → Support -->
+  <line x1="370" y1="468" x2="370" y2="422" stroke="#444" stroke-width="2"/>
+  <polygon points="370,420 364,432 376,432" fill="#444"/>
+  <text x="380" y="447" font-size="10" fill="#444" font-style="italic">Supports</text>
+
+  <!-- Support → Sovereign -->
+  <line x1="370" y1="298" x2="370" y2="252" stroke="#444" stroke-width="2"/>
+  <polygon points="370,250 364,262 376,262" fill="#444"/>
+  <text x="380" y="277" font-size="10" fill="#444" font-style="italic">Enables</text>
+
+  <!-- ── Funding boxes (left side) ── -->
+  <!-- F1: Strategic Public Investment -->
+  <rect x="4" y="488" width="80" height="84" rx="6" ry="6" fill="#fff2cc" stroke="#b45f06" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="44" y="508" text-anchor="middle" font-size="8.5" font-weight="bold" fill="#b45f06">Strategic</text>
+  <text x="44" y="521" text-anchor="middle" font-size="8.5" fill="#b45f06">Public</text>
+  <text x="44" y="534" text-anchor="middle" font-size="8.5" fill="#b45f06">Investment</text>
+
+  <!-- F2: Broad-based Taxation -->
+  <rect x="4" y="318" width="80" height="68" rx="6" ry="6" fill="#fff2cc" stroke="#b45f06" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="44" y="341" text-anchor="middle" font-size="8.5" font-weight="bold" fill="#b45f06">Broad-based</text>
+  <text x="44" y="354" text-anchor="middle" font-size="8.5" fill="#b45f06">Taxation</text>
+
+  <!-- F3: Automation Windfall -->
+  <rect x="4" y="148" width="80" height="84" rx="6" ry="6" fill="#fff2cc" stroke="#b45f06" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="44" y="168" text-anchor="middle" font-size="8.5" font-weight="bold" fill="#b45f06">Automation</text>
+  <text x="44" y="181" text-anchor="middle" font-size="8.5" fill="#b45f06">Windfall</text>
+  <text x="44" y="194" text-anchor="middle" font-size="8.5" fill="#b45f06">Redistribu-</text>
+  <text x="44" y="207" text-anchor="middle" font-size="8.5" fill="#b45f06">tion</text>
+
+  <!-- ── Dashed funding arrows ── -->
+  <!-- F1 → Infra -->
+  <line x1="84" y1="530" x2="88" y2="530" stroke="#b45f06" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <line x1="84" y1="530" x2="90" y2="530" stroke="#b45f06" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="90,530 82,526 82,534" fill="#b45f06"/>
+
+  <!-- F2 → Support -->
+  <line x1="84" y1="352" x2="90" y2="352" stroke="#b45f06" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="90,352 82,348 82,356" fill="#b45f06"/>
+
+  <!-- F3 → Sovereign -->
+  <line x1="84" y1="190" x2="90" y2="190" stroke="#b45f06" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="90,190 82,186 82,194" fill="#b45f06"/>
+
+  <!-- ── Legend ── -->
+  <line x1="90" y1="596" x2="140" y2="596" stroke="#444" stroke-width="1.8"/>
+  <polygon points="140,596 132,592 132,600" fill="#444"/>
+  <text x="148" y="600" font-size="9" fill="#444">Layer dependency</text>
+
+  <line x1="300" y1="596" x2="350" y2="596" stroke="#b45f06" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <polygon points="350,596 342,592 342,600" fill="#b45f06"/>
+  <text x="358" y="600" font-size="9" fill="#b45f06">Funding flow</text>
+
+</svg>

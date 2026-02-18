@@ -243,23 +243,60 @@ a means of supporting human potential.
 
 ## 3. The Three-Layer Architecture
 
-UHI is not a single policy instrument but a systemic architecture.
-As illustrated in Figure 1, it comprises three interdependent layers,
-each serving a distinct function while collectively enabling what this
-paper terms the *Right to Flourish*—the conditions under which every
-individual can fully express their inherent potential.
+UHI is not a single policy instrument but a systemic architecture. As illustrated in Figure 1, it comprises three interdependent layers, each serving a distinct function while collectively enabling what this paper terms the *Right to Flourish*—the conditions under which every individual can fully express their inherent potential.
 
-The lowest layer, Infrastructure, provides the automated public commons
-upon which all higher-layer guarantees depend. The middle layer, Support,
-delivers the social reproduction systems—healthcare, education, childcare,
-and housing—that sustain human capacity. The uppermost layer, Sovereign,
-represents the domain of human agency itself: self-directed activity,
-creative expression, and non-market value creation, supported by a
-universal income floor.
+The lowest layer, Infrastructure, provides the automated public commons upon which all higher-layer guarantees depend. The middle layer, Support, delivers the social reproduction systems—healthcare, education, childcare, and housing—that sustain human capacity. The uppermost layer, Sovereign, represents the domain of human agency itself: self-directed activity, creative expression, and non-market value creation, supported by a universal income floor.
 
-This architecture reflects a deliberate inversion of conventional welfare
-logic. Rather than distributing cash as a final output, UHI treats income
-as one component of a broader infrastructure for human life.
+This architecture reflects a deliberate inversion of conventional welfare logic. Rather than distributing cash as a final output, UHI treats income as one component of a broader infrastructure for human life.
+
+```mermaid
+flowchart TD
+    %% Funding sources (external)
+    F1([Strategic Public Investment])
+    F2([Broad-based Taxation])
+    F3([Automation Windfall Redistribution])
+
+    %% Three layers
+    subgraph Infra["🏗 Infrastructure Layer"]
+        A1[Energy • Compute • Logistics]
+        A2[Automated Public Commons]
+        A1 --> A2
+    end
+
+    subgraph Support["🤝 Support Layer"]
+        B1[Healthcare • Education • Childcare • Housing]
+        B2[Universal Basic Services]
+        B1 --> B2
+    end
+
+    subgraph Sovereign["👤 Sovereign Layer"]
+        C1[Universal Income Floor]
+        C2[Agency & Non-Market Activity]
+        C1 --> C2
+    end
+
+    %% Upward dependency
+    Infra -->|Supports| Support
+    Support -->|Enables| Sovereign
+
+    %% Funding flows (external → layers)
+    F1 -.->|Funds| Infra
+    F2 -.->|Funds| Support
+    F3 -.->|Funds| Sovereign
+
+    %% Styling
+    classDef infra fill:#a8d0e6,stroke:#05445e,stroke-width:2px;
+    classDef support fill:#b8e0d2,stroke:#056d5d,stroke-width:2px;
+    classDef sovereign fill:#f4b6b6,stroke:#800000,stroke-width:2px;
+    classDef funding fill:#fff2cc,stroke:#b45f06,stroke-width:2px,stroke-dasharray:5;
+
+    class Infra infra;
+    class Support support;
+    class Sovereign sovereign;
+    class F1,F2,F3 funding;
+
+Figure 1. The Universal Human Infrastructure (UHI) Three-Layer Architecture.  
+UHI is organized as three interdependent institutional layers. The Infrastructure Layer provides automated public commons, including energy, compute, and logistics systems with near-zero marginal cost characteristics. The Support Layer delivers Universal Basic Services necessary for social reproduction. The Sovereign Layer secures the domain of self-directed human activity through a universal income floor. Each layer is financed through a distinct mechanism: strategic public investment, broad-based taxation, and automation windfall redistribution, respectively. Solid arrows indicate upward dependency; dashed arrows indicate funding flows.
 
 ### 3.1 Infrastructure Layer
 

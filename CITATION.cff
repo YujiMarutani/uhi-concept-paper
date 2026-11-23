@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this concept paper, please cite it as below."
+title: "Universal Human Infrastructure (UHI): Concept Paper"
+authors:
+  - family-names: "Marutani"
+    given-names: "Yuji"
+    orcid: "https://orcid.org/0009-0000-9692-9399"
+version: "1.0"
+doi: "10.5281/zenodo.18675278"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18675277"
+    description: "Concept DOI (all versions)"
+url: "https://doi.org/10.5281/zenodo.18675278"
+keywords:
+  - "Universal Human Infrastructure"
+  - "UHI"
+  - "Post-Labor Social Contract"
+  - "AI Economy"

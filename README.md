@@ -12,6 +12,11 @@ This repository contains the full text of the **UHI Concept Paper v1.0**
 and the directory structure for figures and diagrams.  
 Figure files will be added in subsequent versions (v1.1+).
 
+**Versions & DOIs** (confirmed on Zenodo, 2026-11-23):
+- Concept DOI (all versions): https://doi.org/10.5281/zenodo.18675277
+- **v1.0 — https://doi.org/10.5281/zenodo.18675278** (this repository: the full text of Concept Paper v1.0)
+- v1.1 — https://doi.org/10.5281/zenodo.18676127 (newer version, archived on Zenodo)
+
 ---
 
 ## 📘 Overview
